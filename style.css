@@ -63,9 +63,11 @@ p{
     h1{
         margin:40px 0;
         font-size: 50px;
+        font-weight: bold;
     }
     p{
         margin: 30px 50px;
+        font-weight: bold;
         font-size:25px;
     }
     .links ul li{
@@ -76,12 +78,14 @@ p{
 @media screen and (max-width:550px) {
     h1{
         margin:30px 0;
+        font-weight: bold;
         font-size: 40px;
     }
     p{
         margin: 30px 30px;
-        font-size:20px;
-        font-wieght: bold;
+        font-weight: bold;
+        font-size:25px;
+        color: rgb(0, 0, 0);
     }
     .links ul li{
         font-size: 10px;;
@@ -92,11 +96,15 @@ p{
     h1{
         margin:20px 0;
         font-size: 30px;
-        font-wieght: bold;
+        font-weight: bold;
+
     }
     p{
-        margin: 30px 10px;
-        font-wieght: bold;
+        color: rgb(0, 0, 0);
+        font-size:25px;
+        margin: 30px 20px;
+        font-weight: bold;
+        font-size:15px;
     }
     .links ul li{
         font-size: 7px;;
