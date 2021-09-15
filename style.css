@@ -103,8 +103,9 @@ p{
         color: rgb(0, 0, 0);
         font-size:25px;
         margin: 30px 20px;
-        font-weight: bold;
+        font-weight: bolder;
         font-size:15px;
+        word-spacing: 10px;
     }
     .links ul li{
         font-size: 7px;;
